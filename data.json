@@ -1,0 +1,21 @@
+{
+  "prompts_styles": [],
+  "prompts_concepts": {
+    "antropoceno, antropocentrismo, convivenciaentrehumanosymaquinas": {
+      "esp_prompts": [
+        "La ciudad del antropoceno se sumerge en el caos del antropocentrismo, pero en medio de esa convivencia entre humanos y m\u00e1quinas, aflora la esperanza de un futuro sostenible.",
+        "Los humanos dominan el mundo, en el antropoceno. En medio del antropocentrismo, las m\u00e1quinas se integran a nuestra convivencia.",
+        "La ciudad moderna es un claro ejemplo del antropocentrismo en el antropoceno, donde la convivencia entre humanos y m\u00e1quinas es evidente.",
+        "Las luces brillantes de la ciudad reflejan el dominio humano en el Antropoceno, donde el antropocentrismo se manifiesta en la convivencia entre humanos y m\u00e1quinas, creando un paisaje futurista.",
+        "La ciudad del futuro, en pleno antropoceno, muestra un claro antropocentrismo al evidenciar la convivencia entre humanos y m\u00e1quinas."
+      ],
+      "eng_prompts": [
+        "The city of the Anthropocene is immersed in the chaos of anthropocentrism, but amidst this coexistence between humans and machines, the hope for a sustainable future emerges.",
+        "Humans dominate the world, in the Anthropocene. Amidst anthropocentrism, machines integrate into our coexistence.",
+        "The modern city is a clear example of anthropocentrism in the Anthropocene, where the coexistence between humans and machines is evident.",
+        "The bright lights of the city reflect human dominance in the Anthropocene, where anthropocentrism is manifested in the coexistence between humans and machines, creating a futuristic landscape.",
+        "The city of the future, in the midst of the Anthropocene, clearly showcases anthropocentrism by highlighting the coexistence between humans and machines."
+      ]
+    }
+  }
+}
